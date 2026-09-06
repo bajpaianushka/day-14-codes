@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-	int n = 3;
+	int n = 5;
 	scanf("%d", &n);
 
 	int sum = 0;
