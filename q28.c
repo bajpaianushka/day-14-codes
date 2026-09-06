@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-	int n = 4;
+	int n = 6;
 	scanf("%d", &n);
 
 	long long product = 1;
